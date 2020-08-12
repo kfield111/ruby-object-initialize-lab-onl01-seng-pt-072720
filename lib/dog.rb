@@ -3,3 +3,4 @@ class Dog
     @name = name ?
     @breed = nil ? @breed = "Mutt" : @breed = breed
 end
+end
