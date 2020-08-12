@@ -5,6 +5,6 @@ class Dog
       @breed = "Mutt"
     elsif
       @breed = breed
+    end
   end
-end
 end
