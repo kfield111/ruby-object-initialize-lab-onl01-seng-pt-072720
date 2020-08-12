@@ -6,5 +6,5 @@ class Dog
     elsif
       @breed = breed
   end
-
+end
 end
